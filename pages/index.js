@@ -26,8 +26,8 @@ support, database administration and IT operations. Passionate about continuous 
 of agile methodologies, DevOps, monitoring solutions and technical team leadership. Advanced level of English and
 multiple international certifications.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This is a sample website - For more info about my skills please check my{' '}
+          <a target='_blank' href="https://www.linkedin.com/in/dante-camacho-66220794/">LinkedIn Porfile</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

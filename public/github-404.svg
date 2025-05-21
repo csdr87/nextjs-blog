@@ -1,0 +1,8 @@
+<!-- filepath: /Users/dante/Git/nextjs-blog/public/github-404.svg -->
+<svg width="120" height="120" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="8" cy="8" r="8" fill="#e1e4e8"/>
+  <path d="M4.5 6.5c0-1.38 1.57-2.5 3.5-2.5s3.5 1.12 3.5 2.5" stroke="#586069" stroke-width="1"/>
+  <ellipse cx="6" cy="8" rx="1" ry="1.5" fill="#586069"/>
+  <ellipse cx="10" cy="8" rx="1" ry="1.5" fill="#586069"/>
+  <path d="M6 11c.5.5 2.5.5 3 0" stroke="#586069" stroke-width="1" stroke-linecap="round"/>
+</svg>

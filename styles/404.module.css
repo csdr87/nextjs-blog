@@ -1,0 +1,36 @@
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f6f8fa;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  margin-bottom: 24px;
+}
+
+.title {
+  font-size: 32px;
+  color: #24292f;
+  margin-bottom: 8px;
+}
+
+.message {
+  color: #586069;
+  margin-bottom: 24px;
+}
+
+.homeLink {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+  padding: 8px 16px;
+  background: #fff;
+  transition: background 0.2s;
+}

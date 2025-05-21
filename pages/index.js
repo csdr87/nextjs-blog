@@ -21,7 +21,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Computer Systems Engineer with more than 10 years of experience in web & mobile application development, technical
+support, database administration and IT operations. Passionate about continuous improvement and the implementation
+of agile methodologies, DevOps, monitoring solutions and technical team leadership. Advanced level of English and
+multiple international certifications.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
